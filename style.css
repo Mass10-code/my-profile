@@ -1,9 +1,9 @@
 body {
     color: black;
-    background-color: oldlace;
+    background-color: black;
     font-family: cursive;
     font-weight: lighter;
-    font-size: 20px;   
+    font-size: 16px;   
 }
 
 h1 {
@@ -35,7 +35,7 @@ a:hover {
 }
 
 .card-white {
-	background-color: white;
+	background-color: oldlace;
 	padding:40px;
 	box-shadow: 0px 10px 30px rgba(0,0,0,0.4);
     border-radius: 10px;
@@ -44,7 +44,7 @@ a:hover {
 }
 
 .img-circle {
-	border-radius: 50%;
+	border-radius: 30%;
 }
 
 .btn-blue {
